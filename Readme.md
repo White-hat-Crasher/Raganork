@@ -5,7 +5,7 @@
 <div>
 <br>
   
-<a href="https://raganork-api.herokuapp.com/api/deploy" target="blank"><img align="center" src="/language/Deploy.png" alt="Deploy bot" height="112" width="310" /></a>
+<a href="https://heroku.com/deploy?template=https://github.com/White-hat-Crasher/raganork-deploy" target="blank"><img align="center" src="/language/Deploy.png" alt="Deploy bot" height="112" width="310" /></a>
   <div>
 <br>
 <a href="https://github.com/bot-repo/raganork-deployer/fork"><img align="center" src="/language/repo.png" alt="Fork and deploy" height="112" width="300" /></a>
